@@ -1,4 +1,4 @@
-# 🍊 Mandarin Frontend
+# Mandarin Frontend
 
 This is the **frontend** part of the [Mandarin](https://github.com/azazzillo/MANDARIN) project — a recommendation platform that helps users discover the best venues in their city based on their current mood.
 
@@ -15,7 +15,7 @@ This is the **frontend** part of the [Mandarin](https://github.com/azazzillo/MAN
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
