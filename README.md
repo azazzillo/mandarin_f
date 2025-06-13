@@ -4,7 +4,7 @@ This is the **frontend** part of the [Mandarin](https://github.com/azazzillo/MAN
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **React** — frontend library  
 - **Vite** — blazing fast build tool  
@@ -15,9 +15,7 @@ This is the **frontend** part of the [Mandarin](https://github.com/azazzillo/MAN
 
 ---
 
-## Getting Started
-
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/azazzillo/mandarin_f.git
 cd mandarin_f
